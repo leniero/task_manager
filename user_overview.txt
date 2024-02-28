@@ -1,0 +1,21 @@
+Total number of users: 5
+
+User: admin
+Total tasks assigned: 1
+Percentage of tasks completed: 0.00%
+
+User: leo
+Total tasks assigned: 1
+Percentage of tasks completed: 0.00%
+
+User: matt
+Total tasks assigned: 0
+Percentage of tasks completed: N/A
+
+User: dave
+Total tasks assigned: 1
+Percentage of tasks completed: 100.00%
+
+User: luke
+Total tasks assigned: 1
+Percentage of tasks completed: 0.00%

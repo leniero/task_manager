@@ -1,0 +1,4 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;No
+leo;Fix task manager;Fix all bugs and issues;2024-12-23;No
+dave;Build frontend;Build responsive interface;2024-05-05;Yes
+luke;Check database;Check if all fields on database are formatted correctly;2024-02-03;No
